@@ -1,7 +1,7 @@
 // Copyright (c) September 2026 Félix-Olivier Dumas. All rights reserved.
 // Licensed under the terms described in the LICENSE file
 
-// Reference example of the SPO pattern
+// Reference example of the SPO pattern (explicit form)
 
 namespace exotic {
 
